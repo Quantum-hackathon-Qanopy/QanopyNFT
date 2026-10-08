@@ -1,3 +1,5 @@
+SEPOLIA BASE CONTRACT = 0x386f0C26891AdAb4041AB547Dd59D5C8d7B2A492
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
