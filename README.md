@@ -1,4 +1,6 @@
 SEPOLIA BASE CONTRACT = 0x386f0C26891AdAb4041AB547Dd59D5C8d7B2A492
+
+
 NFT pictures:
 
 Worst   ipfs://bafkreigjqxkph5qrbysc7fs42boplu6d5qrq6tmqzieznuojnt475y4tcq 
