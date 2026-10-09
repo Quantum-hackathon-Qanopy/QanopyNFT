@@ -4,9 +4,13 @@ SEPOLIA BASE CONTRACT = 0x386f0C26891AdAb4041AB547Dd59D5C8d7B2A492
 NFT pictures:
 
 Worst   ipfs://bafkreigjqxkph5qrbysc7fs42boplu6d5qrq6tmqzieznuojnt475y4tcq 
+
 Bad     ipfs://bafkreighulbrlr45rxesw7fcui2yojp5f2vholhopatobl24o7ais5snoq 
+
 Neutral ipfs://bafkreib7zvsz2y7yyu6frjcqr3sruti42pard65hzjci645lhwsjlec7y4
+
 Good    ipfs://bafkreiaou2gn3gy2k7m67wjx5gnobonpbpsyqem4hkvvoqvwehfc6i562m
+
 Best    ipfs://bafybeif4n7vnvr6kw5a7bsk3mqzb67oq4bo2xbjr463e44awj5zejruybq
 
 ## Foundry
