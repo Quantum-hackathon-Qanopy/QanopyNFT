@@ -13,6 +13,23 @@ NFT pictures:
 
 - **Best**    ipfs://bafybeif4n7vnvr6kw5a7bsk3mqzb67oq4bo2xbjr463e44awj5zejruybq
 
+
+{
+  "name": "A3A Merchant",
+  "description": "This NFT verifies access to the A3A merchant interface.",
+  "image": "ipfs://bafybeigwdzye4fokwuu35bl4qn6fzfdukd2pltz74dw7t3c7j6umdbgsb4", 
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Merchant"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Verified"
+    }
+  ]
+}
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
